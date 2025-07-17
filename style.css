@@ -35,3 +35,35 @@ body{
     background-color: #ffffc7;
     
 }
+
+#reset-btn{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #191913;
+    color: #fff;
+    font-size: 1.5rem;
+
+}
+#new-btn{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #191913;
+    color: #fff;
+    font-size: 1.5rem;
+}
+#msg{
+    font-size: 2rem;
+    color: #fff;
+    margin-top: 1rem;
+    font-weight: bold;
+
+}
+.msg-container {
+    height: 40vmin;
+    
+}
+.hide{
+    display: none;
+}
